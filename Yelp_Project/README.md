@@ -23,6 +23,7 @@ by an Elite or a Non-Elite user in real time.
 
 ![ML Pipeline](https://github.com/ShrutiL1396/PySpark/blob/main/Yelp_Project/ML_pipeline.png) </br>
 
+
 ## Prerequisites and Installation
 
 - PySpark
@@ -34,7 +35,11 @@ by an Elite or a Non-Elite user in real time.
 - Plotly
 
 ## Contents
-[Yelp Project](https://github.com/ShrutiL1396/PySpark/tree/main/Yelp_Project) <br/>
+- [Yelp Project](https://github.com/ShrutiL1396/PySpark/tree/main/Yelp_Project) <br/>
+
+- [Insight Analysis and ML Pipeline](https://github.com/ShrutiL1396/PySpark/blob/main/Yelp_Project/Scalable_Final_Project.py) </br>
+
+- [Streaming operation with ML Pipeline](https://github.com/ShrutiL1396/PySpark/blob/main/Yelp_Project/Streaming.py) </br>
 
 
 ## Contact
